@@ -19,7 +19,7 @@ ipykernel==5.4.2
 ipython==7.19.0
 ipython-genutils==0.2.0
 jedi==0.18.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==1.0.0
 jupyter-client==6.1.7
 jupyter-core==4.7.0
