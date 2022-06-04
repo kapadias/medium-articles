@@ -29,7 +29,7 @@ matplotlib==3.3.3
 murmurhash==1.0.5
 nltk==3.5
 numexpr==2.7.2
-numpy==1.19.4
+numpy==1.21.0
 packaging==20.8
 pandas==1.2.0
 parso==0.8.1
