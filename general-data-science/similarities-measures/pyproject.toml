@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "similarities-measures"
+version = "0.1.0"
+description = ""
+authors = ["Shashank Kapadia <shashank.kapadia@randstadusa.com>"]
+readme = "README.md"
+packages = [{include = "similarities_measures"}]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.10"
+jupyterlab = "^3.5.2"
+scikit-learn = "^1.2.0"
+matplotlib = "^3.6.2"
+seaborn = "^0.12.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
