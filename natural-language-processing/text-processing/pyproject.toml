@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "text-processing"
+version = "0.1.0"
+description = ""
+authors = ["Shashank Kapadia <smhkapadia@gmail.com>"]
+readme = "README.md"
+packages = [{include = "text_processing"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyterlab = "^3.5.2"
+nltk = "^3.8.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
