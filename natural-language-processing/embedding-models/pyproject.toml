@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "embedding-models"
+version = "0.1.0"
+description = ""
+authors = ["Shashank Kapadia <smhkapadia@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.10"
+jupyterlab = "^4.0.2"
+tensorflow-hub = "^0.13.0"
+tensorflow = [
+    { version = "2.10.0", platform = "linux" },
+]
+tensorflow-macos = [
+    { version = "2.10.0", platform = "darwin" },
+]
+#tensorflow-text = "^2.10.0"
+tensorflow-text = [
+    {file = "packages/tensorflow_text-2.10.0-cp39-cp39-macosx_11_0_arm64.whl", platform = "darwin"},
+]
+pandas = "^2.0.3"
+seaborn = "^0.12.2"
+tqdm = "^4.65.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
