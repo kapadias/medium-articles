@@ -1,0 +1,100 @@
+base,ref,similarity
+dresser,data scientist,0.5
+clubhost,data scientist,0.5
+co-pilot,data analyst,0.5
+data analyst,textile quality manager,0.5
+data analyst,tracer powder blender,0.5
+data analyst,pottery and porcelain caster,0.5
+data analyst,equine dental technician,0.5
+data analyst," Equine dental technicians provide routine equine dental care, using appropriate equipment in accordance with national legislation. 
+",0.5
+data analyst,vessel assembly inspector,0.5
+data analyst,bacteriology technician,0.5
+data analyst,mover,0.5
+data scientist,manager di fondi pensione,0.5
+data scientist,takelaar,0.5
+data scientist,tapijtknoper,0.5
+data scientist,technicus waterleidingssystemen,0.5
+data scientist,textile quality manager,0.5
+data scientist,nailing machine operator,0.5
+data scientist,hot foil operator,0.5
+data scientist,I manager di fondi pensione coordinano i fondi pensione al fine di fornire prestazioni pensionistiche a individui o organizzazioni. Assicurano la gestione giornaliera dei fondi pensione e definiscono la politica strategica per lo sviluppo di nuovi pacchetti pensionistici.,0.5
+data scientist,reisagent,0.5
+data scientist,matrassenmaker,0.5
+data scientist,emailleur,0.5
+data scientist,meester-koffiebrander,0.5
+data scientist,operatore di macchine per la produzione cartotecnica/operatrice su macchine per la produzione cartotecnica,0.5
+data scientist,watch and clock repairer,0.5
+data scientist,tapijtlegger,0.5
+data scientist,credit union manager,0.5
+data scientist,"Textile quality managers implement, manage and promote quality systems. They make sure that the textile products adhere to the quality standards of the organisation. Textile quality managers therefore inspect textile production lines and products.",0.5
+data scientist,assemblagetechnicus accusystemen,0.5
+data scientist,yeast distiller,0.5
+data scientist,"Hot foil operators tend machines which apply a metallic foil on other materials using pressure cylinders and heating. They also mix colors, set up the appropriate machinery equipment and monitor printing.",0.5
+data scientist,addetto alle operazioni fiscali/addetta alle operazioni fiscali,0.5
+data scientist,viskooitechnicus,0.5
+data scientist,teamleider in een mijn,0.5
+rental manager,data scientist,0.5
+train preparer,data scientist,0.5
+ceiling installer,data analyst,0.5
+igienista dentale,data scientist,0.5
+cabin crew manager,data scientist,0.5
+incisore su metallo,data scientist,0.5
+justice of the peace,data analyst,0.5
+import export manager,data scientist,0.5
+conducente di autocarri,data scientist,0.5
+conducente di autocarri,"I data scientist scoprono e interpretano fonti ricche di dati, gestiscono grandi quantità di dati, ne aggregano le fonti, garantiscono la coerenza degli insiemi di dati e creano visualizzazioni per contribuire alla loro comprensione. Costruiscono modelli matematici che utilizzano dati, presentano e comunicano informazioni e conoscenze sui dati agli specialisti e agli scienziati nella loro squadra e, se necessario, a un pubblico non specializzato e raccomandano modalità di applicazione dei dati.",0.5
+footwear CAD patternmaker,data analyst,0.5
+ufficiale di stato civile,data scientist,0.5
+dental instrument assembler,data scientist,0.5
+waste management supervisor,data analyst,0.5
+carrosserie- en voertuigbouwer,data scientist,0.5
+fuel station specialised seller,data analyst,0.5
+productieleider chemische industrie,data scientist,0.5
+marinaio addetto al servizio di coperta,data scientist,0.5
+allenatore sportivo/allenatrice sportiva,data scientist,0.5
+allenatore sportivo/allenatrice sportiva,"I data scientist scoprono e interpretano fonti ricche di dati, gestiscono grandi quantità di dati, ne aggregano le fonti, garantiscono la coerenza degli insiemi di dati e creano visualizzazioni per contribuire alla loro comprensione. Costruiscono modelli matematici che utilizzano dati, presentano e comunicano informazioni e conoscenze sui dati agli specialisti e agli scienziati nella loro squadra e, se necessario, a un pubblico non specializzato e raccomandano modalità di applicazione dei dati.",0.5
+water conservation technician supervisor,data scientist,0.5
+supervisore di assemblaggio di veicoli a motore,data scientist,0.5
+tecnico della qualità dei prodotti di pelletteria,data scientist,0.5
+responsabile della distribuzione di macchine e attrezzature agricole,data scientist,0.5
+"wholesale merchant in agricultural raw materials, seeds and animal feeds",data analyst,0.5
+confezionatore caseario artigianale /confezionatrice casearia artigianale,data scientist,0.5
+confezionatore caseario artigianale /confezionatrice casearia artigianale,"I data scientist scoprono e interpretano fonti ricche di dati, gestiscono grandi quantità di dati, ne aggregano le fonti, garantiscono la coerenza degli insiemi di dati e creano visualizzazioni per contribuire alla loro comprensione. Costruiscono modelli matematici che utilizzano dati, presentano e comunicano informazioni e conoscenze sui dati agli specialisti e agli scienziati nella loro squadra e, se necessario, a un pubblico non specializzato e raccomandano modalità di applicazione dei dati.",0.5
+import-exportmanager ijzerwaren en producten voor loodgieterij en verwarming,data scientist,0.5
+addetto all’assemblaggio di strumenti di precisione/addetta all’assemblaggio di strumenti di precisione,data scientist,0.5
+data analyst,"Data analysts import, inspect, clean, transform, validate, model, or interpret collections of data with regard to the business goals of the company. They ensure that the data sources and repositories provide consistent and reliable data. Data analysts use different algorithms and IT tools as demanded by the situation and the current data. They might prepare reports in the form of visualisations such as graphs, charts, and dashboards.",1.0
+data scientist,"Data scientists find and interpret rich data sources, manage large amounts of data, merge data sources, ensure consistency of data-sets, and create visualisations to aid in understanding data. They build mathematical models using data, present and communicate data insights and findings to specialists and scientists in their team and if required, to a non-expert audience, and recommend ways to apply the data.",1.0
+data scientist,"Data scientists zoeken en interpreteren rijke gegevensbronnen, beheren grote hoeveelheden gegevens, voegen gegevensbronnen samen, zorgen voor de consistentie van datasets en creëren visualisaties om te helpen gegevens te begrijpen. Zij bouwen wiskundige modellen op basis van data, presenteren en communiceren gegevensinzichten en bevindingen aan specialisten en wetenschappers in hun team en, indien nodig, aan een niet-deskundig publiek, en bevelen manieren aan om de data toe te passen.",1.0
+data scientist,"I data scientist scoprono e interpretano fonti ricche di dati, gestiscono grandi quantità di dati, ne aggregano le fonti, garantiscono la coerenza degli insiemi di dati e creano visualizzazioni per contribuire alla loro comprensione. Costruiscono modelli matematici che utilizzano dati, presentano e comunicano informazioni e conoscenze sui dati agli specialisti e agli scienziati nella loro squadra e, se necessario, a un pubblico non specializzato e raccomandano modalità di applicazione dei dati.",1.0
+cosmologist,cosmology data scientist,0.74681668889336494
+data analyst,data storage analyst,0.74681668889336494
+data analyst,data warehouse analyst,0.74681668889336494
+data analyst,data warehousing analyst,0.74681668889336494
+meter reader,metering data analyst,0.74681668889336494
+statistician,statistical data analyst,0.74681668889336494
+data scientist,esperta di dati,0.74681668889336494
+data scientist,data engineer,0.74681668889336494
+data scientist,data-scientist,0.74681668889336494
+data scientist,data research scientist,0.74681668889336494
+data scientist,esperto di dati,0.74681668889336494
+data scientist,data expert,0.74681668889336494
+data scientist,data analyst,0.74681668889336494
+data scientist,research data scientist,0.74681668889336494
+data scientist,research analist,0.74681668889336494
+data scientist,research data scientist,0.74681668889336494
+data scientist,analista dei dati di ricerca,0.74681668889336494
+data scientist,business data scientist,0.74681668889336494
+analista dei dati,data analyst,0.74681668889336494
+call centre analyst,sales data analyst,0.74681668889336494
+call centre analyst,CRM data analyst,0.74681668889336494
+call centre analyst,customer data analyst,0.74681668889336494
+call centre analyst,senior data analyst,0.74681668889336494
+call centre analyst,assistant data analyst,0.74681668889336494
+call centre analyst,trainee data analyst,0.74681668889336494
+call centre analyst,graduate data analyst,0.74681668889336494
+call centre analyst,marketing data analyst,0.74681668889336494
+call centre analyst,IT data analyst,0.74681668889336494
+analyste de données,data analyst,0.74681668889336494
+bioinformatics scientist,data scientist,0.74681668889336494
+scientifique des données,data scientist,0.74681668889336494
